@@ -259,3 +259,6 @@ public class RestAssuredDemoTests implements TestLogger {
         Assertions.assertEquals("musagulov",response.body().jsonPath().get("user.login"));
     }
 }
+
+
+//test comment2
